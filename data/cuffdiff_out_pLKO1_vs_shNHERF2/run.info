@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffdiff -p 28 -o cuffdiff_out_pLKO1_vs_shNHERF2 cuffmerge_out/merged.gtf tophat_out_SL58667/accepted_hits.bam,tophat_out_SL58668/accepted_hits.bam,tophat_out_SL58669/accepted_hits.bam tophat_out_SL58673/accepted_hits.bam,tophat_out_SL58674/accepted_hits.bam,tophat_out_SL58675/accepted_hits.bam 
+version	2.0.2
+SVN_revision	3522
+boost_version	104900

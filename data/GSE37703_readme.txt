@@ -1,0 +1,9 @@
+processed data file column header information
+
+hiseq_cuffdiff
+sample_1 LFB_scramble_hiseq
+sample_2 LFB_HOXA1KD_hiseq
+
+miseq_cuffdiff
+sample_1 LFB_scramble_miseq
+sample_2 LFB_HOXA1KD_miseq
